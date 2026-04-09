@@ -19,6 +19,16 @@ Pick one idea:
 - Measure water usage
 - Build a simple data dashboard
 
+- ## 🛠 Try a Real Starter File
+
+Download `starter-data.csv` and look for patterns:
+
+- Which day had the most waste?
+- Which habit could improve?
+- What would you track next?
+
+This is how Eco AI begins: noticing patterns and asking better questions.
+
 ---
 
 ## 🧠 Think Like Codey-B
