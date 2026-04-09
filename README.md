@@ -49,4 +49,7 @@ Start simple. Think big.
 
 ---
 
-🌍 Build something that matters.
+## 🌱 Join the Mission
+
+Explore more at: https://codey-b.com  
+Build something. Share it. Help the planet.
