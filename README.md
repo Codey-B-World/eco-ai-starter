@@ -19,7 +19,7 @@ Pick one idea:
 - Measure water usage
 - Build a simple data dashboard
 
-- ## 🛠 Try a Real Starter File
+## 🛠 Try a Real Starter File
 
 Download `starter-data.csv` and look for patterns:
 
